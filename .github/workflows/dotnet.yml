@@ -25,7 +25,6 @@ jobs:
       run: dotnet build --configuration Release
 
     - name: Publish application
-      # CAMBIO AQUÍ: Añade el nombre del proyecto que quieres publicar
       run: dotnet publish App.Api --configuration Release --output ./published
 
     - name: Deploy to server (ejemplo de despliegue)
