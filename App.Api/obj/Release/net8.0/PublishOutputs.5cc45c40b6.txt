@@ -1,0 +1,12 @@
+C:\LAB14\API\App.Api.exe
+C:\LAB14\API\appsettings.Development.json
+C:\LAB14\API\appsettings.json
+C:\LAB14\API\App.Api.dll
+C:\LAB14\API\App.Api.deps.json
+C:\LAB14\API\App.Api.runtimeconfig.json
+C:\LAB14\API\App.Api.pdb
+C:\LAB14\API\Microsoft.AspNetCore.OpenApi.dll
+C:\LAB14\API\Microsoft.OpenApi.dll
+C:\LAB14\API\Swashbuckle.AspNetCore.Swagger.dll
+C:\LAB14\API\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\LAB14\API\Swashbuckle.AspNetCore.SwaggerUI.dll
